@@ -56,17 +56,9 @@ Currently working on fun projects using JavaScript, React, Bootstrap and more.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjafariamin-tech&layout=compact" />
 </a>
 
----
-
-## 🔥 Contributions & Streak
-
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com?user=mrjafariamin-tech&date_format=j%20M%5B%20Y%5D&sideLabels=Contributions" />
 </a>
-
-- **Total Contributions (2025):** 119  
-- **Contributed (last year?):** 7  
-- **Longest Streak:** 7 days *(Start: Sep 21, 2023 — End: Sep 15, 2023)*
 
 ---
 
