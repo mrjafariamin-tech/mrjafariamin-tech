@@ -1,6 +1,6 @@
-# Benjamin Solano
+# Amin
 
-**Systems Engineering Student | Competitor in ICPC (2025)**
+**Full‑Stack Web Developer | Django + React Vite**
 
 ![](https://img.shields.io/github/followers/mrjafariamin-tech?style=social) 
 ![](https://img.shields.io/github/followers/mrjafariamin-tech?style=social&label=Following)
@@ -11,38 +11,35 @@
 
 ## 🏆 Achievements
 
-- 🥇 ICPC Regional Qualifier 2025  
-- 📘 200+ problems solved on Codeforces  
-- 🚀 First open‑source contribution
+- 🚀 Built multiple full‑stack apps with Django & React  
+- 📘 150+ problems solved on Codeforces  
+- 🧪 Experienced in REST APIs & JWT authentication
 
 ---
 
-# Welcome to Benjamin’s Github
+# Welcome to Amin’s Github
 
 ## 👋 About me
 
-Hello! I'm Benjamin Solano, a Systems Engineer student.  
-I enjoy learning new technologies and problem solving on Codeforces and Codechef.  
-Currently working on fun projects using JavaScript, React, Bootstrap and more.
+Hello! I'm Amin, a full‑stack web developer.  
+I specialize in **Django** (backend) and **React Vite** (frontend).  
+I enjoy building complete web applications, designing RESTful APIs, and learning new tools to improve my workflow.
 
 ---
 
 ## 🛠️ Technologies
 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Git Bash](https://img.shields.io/badge/-Git%20Bash-000000?logo=gnubash&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 
 ---
 
@@ -56,9 +53,17 @@ Currently working on fun projects using JavaScript, React, Bootstrap and more.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjafariamin-tech&layout=compact" />
 </a>
 
+---
+
+## 🔥 Contributions & Streak
+
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com?user=mrjafariamin-tech&date_format=j%20M%5B%20Y%5D&sideLabels=Contributions" />
 </a>
+
+- **Total Contributions (2025):** 119  
+- **Contributed (last year):** 7  
+- **Longest Streak:** 7 days *(example – update with your real streak)*
 
 ---
 
@@ -72,4 +77,4 @@ Currently working on fun projects using JavaScript, React, Bootstrap and more.
 
 ---
 
-> 💡 This profile uses only GitHub’s default styling – no custom CSS.
+> 💼 Full‑stack developer – Django + React Vite – building modern web apps.
