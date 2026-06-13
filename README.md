@@ -1,21 +1,3 @@
-# Amin
-
-**Full‑Stack Web Developer | Django + React Vite**
-
-![](https://img.shields.io/github/followers/mrjafariamin-tech?style=social&label=Follow&color=0D1117) 
-![](https://img.shields.io/github/followers/mrjafariamin-tech?style=social&label=Following&color=0D1117)
-
-📍 Tehran / Iran | 📧 none
-
----
-
-## 🏆 Achievements
-
-- 🚀 Full‑stack apps with Django & React Vite  
-- 📘 150+ problems solved on Codeforces  
-- 🔐 JWT & REST APIs expert
-
----
 
 # Welcome to Amin’s Github
 
@@ -24,6 +6,14 @@
 Hello! I'm Amin, a full‑stack web developer.  
 I specialize in **Django** (backend) and **React Vite** (frontend).  
 I enjoy building complete web applications, designing RESTful APIs, and learning new tools to improve my workflow.
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Full‑stack apps with Django & React Vite  
+- 📘 150+ problems solved on Codeforces  
+- 🔐 JWT & REST APIs expert
 
 ---
 
