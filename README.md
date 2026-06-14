@@ -17,25 +17,25 @@ I enjoy building complete web applications, designing RESTful APIs, and learning
 
 ---
 
-## 🛠️ Technologies (Dark Badges)
+## 🛠️ Technologies
 
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=django&logoColor=white)
+  ![React](https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-171717?style=for-the-badge&logo=vite&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-171717?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-171717?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 
 ---
 
-## 📊 Statistics (Dark Theme)
+## 📊 Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjafariamin-tech&show_icons=true&hide=prs,issues&count_private=true&show=reviews,discussions_started&hide_title=true&theme=dark" />
@@ -47,13 +47,8 @@ I enjoy building complete web applications, designing RESTful APIs, and learning
 
 ---
 
-## 🔥 Contributions & Streak (Dark Theme)
 
-
-
----
-
-## 📅 Contribution Graph (Dark Theme)
+## 📅 Contribution Graph
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrjafariamin-tech&theme=github-dark" />
