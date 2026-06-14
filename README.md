@@ -16,9 +16,9 @@ I enjoy building complete web applications, designing RESTful APIs, and learning
 - 🔐 JWT & REST APIs expert
 
 ---
-
-## 🛠️ Technologies
-
+<div align="center">
+  ## 🛠️ Technologies
+  
   ![Django](https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=django&logoColor=white)
   ![React](https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-171717?style=for-the-badge&logo=vite&logoColor=white)
@@ -30,8 +30,8 @@ I enjoy building complete web applications, designing RESTful APIs, and learning
   ![Git](https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-171717?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
+    
+</div>
 
 ---
 
