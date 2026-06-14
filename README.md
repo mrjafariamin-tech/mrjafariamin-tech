@@ -41,10 +41,6 @@ I enjoy building complete web applications, designing RESTful APIs, and learning
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjafariamin-tech&show_icons=true&hide=prs,issues&count_private=true&show=reviews,discussions_started&hide_title=true&theme=dark" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjafariamin-tech&layout=compact&theme=dark" />
-</a>
-
 ---
 
 ## 🔥 Contributions & Streak (Dark Theme)
@@ -52,11 +48,6 @@ I enjoy building complete web applications, designing RESTful APIs, and learning
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com?user=mrjafariamin-tech&theme=dark&date_format=j%20M%5B%20Y%5D&sideLabels=Contributions" />
 </a>
-
-- **Total Contributions (2025):** 119  
-- **Contributed (last year):** 7  
-- **Longest Streak:** 7 days *(example – update with your real streak)*
-
 ---
 
 ## 📅 Contribution Graph (Dark Theme)
