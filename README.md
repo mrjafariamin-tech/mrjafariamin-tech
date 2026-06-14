@@ -14,6 +14,7 @@
   I enjoy building complete web applications, designing RESTful APIs, and learning new tools to improve my workflow.
     
 </div>
+
 ---
 
 ## 🏆 Achievements
@@ -23,6 +24,7 @@
 - 🔐 JWT & REST APIs expert
 
 ---
+
 <div align="center">
   <h2>
     🛠️ Technologies
@@ -41,6 +43,7 @@
   ![SQLite](https://img.shields.io/badge/SQLite-171717?style=for-the-badge&logo=sqlite&logoColor=white)
     
 </div>
+
 ---
 
 ## 📊 Statistics
