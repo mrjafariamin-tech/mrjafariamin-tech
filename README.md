@@ -17,7 +17,9 @@ I enjoy building complete web applications, designing RESTful APIs, and learning
 
 ---
 <div align="center">
-  ## 🛠️ Technologies
+  <h2>
+    🛠️ Technologies
+  </h2>
   
   ![Django](https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=django&logoColor=white)
   ![React](https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=white)
