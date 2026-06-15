@@ -10,7 +10,7 @@
   </h2>
   
   Hello! I'm Amin, a full‑stack web developer.  
-  I specialize in **Django** (backend) and **React Vite** (frontend).  
+  I specialize in **Django** (backend) and **React, Vite** (frontend).  
   I enjoy building complete web applications, designing RESTful APIs, and learning new tools to improve my workflow.
     
 </div>
